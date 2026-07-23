@@ -162,6 +162,6 @@ The solution follows industry best practices by using:
 
 Data Engineer
 
-LinkedIn: (link)
+LinkedIn: [(link)](https://www.linkedin.com/in/parthahuja3108/)
 
-Email: (email)
+Email: work.parthahuja@gmail.com
